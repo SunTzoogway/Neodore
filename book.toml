@@ -1,0 +1,17 @@
+[book]
+authors = [""]
+language = "en"
+multilingual = false
+src = "src"
+title = "Mettalignment Ithaca Retreat"
+
+[output.html]
+edit-url-template = "https://github.com/SunTzoogway/Neodore/blob/main/{path}"
+default-theme = "ayu"
+
+[output.html.print]
+enable = false 
+
+[output.html.fold]
+enable = true
+level = 0 
