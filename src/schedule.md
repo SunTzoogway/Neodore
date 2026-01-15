@@ -14,7 +14,9 @@
 
 - Thurs, Jan 15th
 
-First "who are we and what are we doing here" pitch? Invite Rylan, Raphael, Park Doing?
+<u>7:00pm at Omar's house</u>. First draft of talks/pitch. Open invite to friends/collaborators. We'll probably go pretty long / in depth, so if you want to come for just the beginning to get a glimpse, that's very welcome!
+
+Friends invited: Rylan, Raphael, Frances, Erin, Aurora, Austen, Liv, Daniel S, Daniel S <span style="opacity:0.5">(as I write this I realize there are two Daniel S's in Ithaca and I have found them both)</span>
 
 ----
 
@@ -40,6 +42,12 @@ Potluck dinner with friends (Amy)
 
 ----
 
+- Sun, Jan 25th
+
+11:00am "living room talk", with Drake & Josi.
+
+---
+
 - 🚂 Feb 5th 
 
 check out of Ithaca Airbnb -> NYC
@@ -51,3 +59,4 @@ check out of Ithaca Airbnb -> NYC
 - Cornell Synchrotron tour (particle accelerator)
 - Ithaca Zen Center (Sunday morning meditation & talk)
 - Meet with local journalist friend
+- "Lore night" with Liv (where we share "backstories" that are formative to our identity that our friends may not know)
