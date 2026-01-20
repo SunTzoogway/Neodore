@@ -1,5 +1,7 @@
 # Log
 
+- (Jan 19)
+    - Defender substack [Why not dot com](https://defenderofthebasic.substack.com/p/why-not-dot-com)
 - (Jan 16)
     - [Brent Dill](https://x.com/DefenderOfBasic/status/2012127605810749511) case
     - First series of "what is mettalignment?" in Ithaca, with Raphael, Rylan, and friends
