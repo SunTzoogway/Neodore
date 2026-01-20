@@ -7,3 +7,5 @@
 ----
 
 [Log](log.md)
+[Portfolio](portfolio.md)
+[WIP](wip.md)

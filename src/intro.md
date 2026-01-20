@@ -16,8 +16,8 @@ TODO
 
 TODO
 
+- Daniel review, Sun's objective-subjective building block
 - buy a whiteboard & markers
-- (ask Airbnb host if we can have "meetings")
 
 PRIORITIES 
 

@@ -12,6 +12,7 @@ In Ithaca:
 - ✅ Ben Ristow ([faculty page](https://www.hws.edu/faculty/ristow-benjamin.aspx)) - is teaching a digital rhetoric / "memetics" class 
 - Daniel Rotsztain ([https://theurbangeographer.ca/About](https://theurbangeographer.ca/About)) - a friend of Rosano's
 - Drake ([Ithaca Suzuki School](https://www.ithacasuzukimusiceducation.com/our-faculty)) - friend, philosopher, director of the Suzuki school, teaches violin 
+- Viktor ([economist/crypto](https://www.linkedin.com/in/viktor-tsyrennikov/)) - friend, met at gimme coffee
 - Friends
     - Karl, Erin, Emily, Aurora
     - Daniel, Frances, Himani
@@ -33,6 +34,7 @@ _Everyone below is "from the internet"_.
 
 - 🔬 Sam Senchal ([@samsenchal](https://x.com/samsenchal)) - highest ELO ranking person in ORI
 - 💻 🔬 Myk ([@mykola](https://x.com/mykola)) - potential lab lead
+  - Hiveism ([substack](https://hiveism.substack.com/about)) - bottom up alignment 
 - 💻 🔬 John Ash ([@speakerjohnash](https://x.com/speakerjohnash)) - researcher I'd like to invest in
   - See [A Transparent Attention Economy for Human Coordination](https://speakerjohnash.substack.com/p/rust-demystified)
 - Torus Network ([company blog](https://blog.torus.network/posts/trust-the-swarm/)) - very aligned company
@@ -46,3 +48,4 @@ _Everyone below is "from the internet"_.
 - 💰 Aishwarya ([@aishdoingthings](https://x.com/aishdoingthings)) - Analogue contact, also [@hermittoday](https://x.com/hermittoday)
 - [Slime Mold Time Mold](https://slimemoldtimemold.com/) & [Adam Mastroianni](https://www.experimental-history.com/) - academics who champion the "open science" movement. Invited me to blog summit / talk in NYC where I met Etymology Nerd.
 - Ronen Tamari ([@rtk254](https://x.com/rtk254)) - Semble (see [https://semble.so/](https://semble.so/) and [Introducing CAIROS: Collective Augmented Intelligence for Research and Open Science](https://blog.cosmik.network/introducing-cairos))
+- 💫 Michael Garfield ([substack](https://michaelgarfield.substack.com/about)) & his cluster 

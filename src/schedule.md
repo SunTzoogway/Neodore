@@ -40,6 +40,12 @@ Potluck dinner with friends (Amy)
 
 [Ithaca Social Circle](https://ithacasocialcircle.com/), this is a local community "office hours" / third space.
 
+---
+
+- Sat, Jan 24th
+
+3pm - Blood on the Clock Tower!! 
+
 ----
 
 - Sun, Jan 25th
