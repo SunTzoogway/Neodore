@@ -49,3 +49,4 @@ _Everyone below is "from the internet"_.
 - [Slime Mold Time Mold](https://slimemoldtimemold.com/) & [Adam Mastroianni](https://www.experimental-history.com/) - academics who champion the "open science" movement. Invited me to blog summit / talk in NYC where I met Etymology Nerd.
 - Ronen Tamari ([@rtk254](https://x.com/rtk254)) - Semble (see [https://semble.so/](https://semble.so/) and [Introducing CAIROS: Collective Augmented Intelligence for Research and Open Science](https://blog.cosmik.network/introducing-cairos))
 - 💫 Michael Garfield ([substack](https://michaelgarfield.substack.com/about)) & his cluster 
+- Tianmu
